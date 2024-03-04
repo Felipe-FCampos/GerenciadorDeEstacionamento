@@ -1,0 +1,14 @@
+/Users/retr0/Documents/teste_projeto_dotnet/bin/Debug/net8.0/teste_projeto_dotnet
+/Users/retr0/Documents/teste_projeto_dotnet/bin/Debug/net8.0/teste_projeto_dotnet.deps.json
+/Users/retr0/Documents/teste_projeto_dotnet/bin/Debug/net8.0/teste_projeto_dotnet.runtimeconfig.json
+/Users/retr0/Documents/teste_projeto_dotnet/bin/Debug/net8.0/teste_projeto_dotnet.dll
+/Users/retr0/Documents/teste_projeto_dotnet/bin/Debug/net8.0/teste_projeto_dotnet.pdb
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.AssemblyInfoInputs.cache
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.AssemblyInfo.cs
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.csproj.CoreCompileInputs.cache
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.dll
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/refint/teste_projeto_dotnet.dll
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.pdb
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/teste_projeto_dotnet.genruntimeconfig.cache
+/Users/retr0/Documents/teste_projeto_dotnet/obj/Debug/net8.0/ref/teste_projeto_dotnet.dll
